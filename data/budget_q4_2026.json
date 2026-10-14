@@ -1,0 +1,1397 @@
+{
+  "period": [
+    "Октябрь 2026",
+    "Ноябрь 2026",
+    "Декабрь 2026"
+  ],
+  "projects": {
+    "zarya": {
+      "name": "Заря",
+      "source_file": "02-_-_-_2026_2029.xlsx",
+      "source_sha256": "06ecae219800df6a0fe92a6bbe62e06912fdbd6b986f572646b999277ecbda6c",
+      "monthly": [
+        {
+          "sales": 38088872.85,
+          "units": 5.0062,
+          "lead": 1382850,
+          "brand": 683000,
+          "agent": 1066488.44,
+          "operations": 520230,
+          "registration": 288000,
+          "commercial": 3940568.44,
+          "subsidy": 166666.67,
+          "leads_model": 39,
+          "direct": 780000,
+          "cpl": 20000.0,
+          "model_ticket": 8500000,
+          "model_direct_deals": 2,
+          "escrow": 24757767.35,
+          "lead_items": [
+            {
+              "row": 17,
+              "cell": "C17",
+              "label": "Яндекс.Директ — бюджет",
+              "amount": 780000,
+              "formula": "=C14*C12"
+            },
+            {
+              "row": 18,
+              "cell": "C18",
+              "label": "Сопровождение digital",
+              "amount": 118125.0,
+              "formula": null
+            },
+            {
+              "row": 19,
+              "cell": "C19",
+              "label": "Классифайды (Авито)",
+              "amount": 108100.0,
+              "formula": null
+            },
+            {
+              "row": 20,
+              "cell": "C20",
+              "label": "Ведение Авито",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 21,
+              "cell": "C21",
+              "label": "ВКонтакте — бюджет рекламы",
+              "amount": 250000.0,
+              "formula": null
+            },
+            {
+              "row": 22,
+              "cell": "C22",
+              "label": "ВКонтакте — ведение таргета",
+              "amount": 86625.0,
+              "formula": null
+            },
+            {
+              "row": 23,
+              "cell": "C23",
+              "label": "Квиз и чат-лендинг: дизайн-обслуживание",
+              "amount": 40000.0,
+              "formula": null
+            },
+            {
+              "row": 24,
+              "cell": "C24",
+              "label": "Квиз и чат-лендинг: сервис",
+              "amount": 0.0,
+              "formula": null
+            }
+          ],
+          "brand_items": [
+            {
+              "row": 31,
+              "cell": "C31",
+              "label": "Яндекс.Директ — медийная РК",
+              "amount": 195000,
+              "formula": "=C17*C30"
+            },
+            {
+              "row": 32,
+              "cell": "C32",
+              "label": "SMM и соцсети",
+              "amount": 150000.0,
+              "formula": null
+            },
+            {
+              "row": 33,
+              "cell": "C33",
+              "label": "Репутация: отзывы, 2ГИС, Яндекс.Карты",
+              "amount": 14000.0,
+              "formula": null
+            },
+            {
+              "row": 34,
+              "cell": "C34",
+              "label": "Креатив и продакшн",
+              "amount": 74000.0,
+              "formula": null
+            },
+            {
+              "row": 35,
+              "cell": "C35",
+              "label": "POS-материалы, типография",
+              "amount": 150000.0,
+              "formula": null
+            },
+            {
+              "row": 36,
+              "cell": "C36",
+              "label": "Геосервисы",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 37,
+              "cell": "C37",
+              "label": "Наружная реклама (размещение + баннеры)",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 38,
+              "cell": "C38",
+              "label": "PR: размещение в СМИ",
+              "amount": 100000.0,
+              "formula": null
+            },
+            {
+              "row": 39,
+              "cell": "C39",
+              "label": "PR: мероприятия для клиентов",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 40,
+              "cell": "C40",
+              "label": "PR: работа с риелторами",
+              "amount": 0.0,
+              "formula": null
+            }
+          ],
+          "operations_items": [
+            {
+              "row": 60,
+              "cell": "C60",
+              "label": "Аренда офиса",
+              "amount": 263790.0,
+              "formula": null
+            },
+            {
+              "row": 61,
+              "cell": "C61",
+              "label": "Содержание офиса",
+              "amount": 15000.0,
+              "formula": null
+            },
+            {
+              "row": 62,
+              "cell": "C62",
+              "label": "Техническая поддержка CRM",
+              "amount": 68250.0,
+              "formula": null
+            },
+            {
+              "row": 63,
+              "cell": "C63",
+              "label": "Лицензия Profitbase",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 64,
+              "cell": "C64",
+              "label": "Лицензия amoCRM",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 65,
+              "cell": "C65",
+              "label": "Сквозная аналитика (Roistat)",
+              "amount": 8190.0,
+              "formula": null
+            },
+            {
+              "row": 66,
+              "cell": "C66",
+              "label": "Вазап",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 67,
+              "cell": "C67",
+              "label": "Телефония (Манго)",
+              "amount": 15000.0,
+              "formula": null
+            },
+            {
+              "row": 68,
+              "cell": "C68",
+              "label": "Прочее",
+              "amount": 150000.0,
+              "formula": null
+            }
+          ],
+          "attraction": 2449338.44,
+          "requested_agent": 1714536.9079999998,
+          "requested_lead": 734801.532,
+          "direct_model_cost": 780000.0,
+          "direct_gap": 0.0
+        },
+        {
+          "sales": 44200638.58,
+          "units": 5.632,
+          "lead": 1382850,
+          "brand": 783000,
+          "agent": 1237617.88,
+          "operations": 520230,
+          "registration": 288000,
+          "commercial": 4211697.88,
+          "subsidy": 83333.33,
+          "leads_model": 39,
+          "direct": 780000,
+          "cpl": 20000.0,
+          "model_ticket": 8500000,
+          "model_direct_deals": 2,
+          "escrow": 28730415.08,
+          "lead_items": [
+            {
+              "row": 17,
+              "cell": "D17",
+              "label": "Яндекс.Директ — бюджет",
+              "amount": 780000,
+              "formula": "=D14*D12"
+            },
+            {
+              "row": 18,
+              "cell": "D18",
+              "label": "Сопровождение digital",
+              "amount": 118125.0,
+              "formula": null
+            },
+            {
+              "row": 19,
+              "cell": "D19",
+              "label": "Классифайды (Авито)",
+              "amount": 108100.0,
+              "formula": null
+            },
+            {
+              "row": 20,
+              "cell": "D20",
+              "label": "Ведение Авито",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 21,
+              "cell": "D21",
+              "label": "ВКонтакте — бюджет рекламы",
+              "amount": 250000.0,
+              "formula": null
+            },
+            {
+              "row": 22,
+              "cell": "D22",
+              "label": "ВКонтакте — ведение таргета",
+              "amount": 86625.0,
+              "formula": null
+            },
+            {
+              "row": 23,
+              "cell": "D23",
+              "label": "Квиз и чат-лендинг: дизайн-обслуживание",
+              "amount": 40000.0,
+              "formula": null
+            },
+            {
+              "row": 24,
+              "cell": "D24",
+              "label": "Квиз и чат-лендинг: сервис",
+              "amount": 0.0,
+              "formula": null
+            }
+          ],
+          "brand_items": [
+            {
+              "row": 31,
+              "cell": "D31",
+              "label": "Яндекс.Директ — медийная РК",
+              "amount": 195000,
+              "formula": "=D17*D30"
+            },
+            {
+              "row": 32,
+              "cell": "D32",
+              "label": "SMM и соцсети",
+              "amount": 150000.0,
+              "formula": null
+            },
+            {
+              "row": 33,
+              "cell": "D33",
+              "label": "Репутация: отзывы, 2ГИС, Яндекс.Карты",
+              "amount": 14000.0,
+              "formula": null
+            },
+            {
+              "row": 34,
+              "cell": "D34",
+              "label": "Креатив и продакшн",
+              "amount": 74000.0,
+              "formula": null
+            },
+            {
+              "row": 35,
+              "cell": "D35",
+              "label": "POS-материалы, типография",
+              "amount": 150000.0,
+              "formula": null
+            },
+            {
+              "row": 36,
+              "cell": "D36",
+              "label": "Геосервисы",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 37,
+              "cell": "D37",
+              "label": "Наружная реклама (размещение + баннеры)",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 38,
+              "cell": "D38",
+              "label": "PR: размещение в СМИ",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 39,
+              "cell": "D39",
+              "label": "PR: мероприятия для клиентов",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 40,
+              "cell": "D40",
+              "label": "PR: работа с риелторами",
+              "amount": 200000.0,
+              "formula": null
+            }
+          ],
+          "operations_items": [
+            {
+              "row": 60,
+              "cell": "D60",
+              "label": "Аренда офиса",
+              "amount": 263790.0,
+              "formula": null
+            },
+            {
+              "row": 61,
+              "cell": "D61",
+              "label": "Содержание офиса",
+              "amount": 15000.0,
+              "formula": null
+            },
+            {
+              "row": 62,
+              "cell": "D62",
+              "label": "Техническая поддержка CRM",
+              "amount": 68250.0,
+              "formula": null
+            },
+            {
+              "row": 63,
+              "cell": "D63",
+              "label": "Лицензия Profitbase",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 64,
+              "cell": "D64",
+              "label": "Лицензия amoCRM",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 65,
+              "cell": "D65",
+              "label": "Сквозная аналитика (Roistat)",
+              "amount": 8190.0,
+              "formula": null
+            },
+            {
+              "row": 66,
+              "cell": "D66",
+              "label": "Вазап",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 67,
+              "cell": "D67",
+              "label": "Телефония (Манго)",
+              "amount": 15000.0,
+              "formula": null
+            },
+            {
+              "row": 68,
+              "cell": "D68",
+              "label": "Прочее",
+              "amount": 150000.0,
+              "formula": null
+            }
+          ],
+          "attraction": 2620467.88,
+          "requested_agent": 1834327.5159999998,
+          "requested_lead": 786140.364,
+          "direct_model_cost": 780000.0,
+          "direct_gap": 0.0
+        },
+        {
+          "sales": 51846467.55,
+          "units": 6.4664,
+          "lead": 1382850,
+          "brand": 583000,
+          "agent": 1451701.091,
+          "operations": 520230,
+          "registration": 288000,
+          "commercial": 4225781.091,
+          "subsidy": 166666.67,
+          "leads_model": 39,
+          "direct": 780000,
+          "cpl": 20000.0,
+          "model_ticket": 8500000,
+          "model_direct_deals": 2,
+          "escrow": 33700203.91,
+          "lead_items": [
+            {
+              "row": 17,
+              "cell": "E17",
+              "label": "Яндекс.Директ — бюджет",
+              "amount": 780000,
+              "formula": "=E14*E12"
+            },
+            {
+              "row": 18,
+              "cell": "E18",
+              "label": "Сопровождение digital",
+              "amount": 118125.0,
+              "formula": null
+            },
+            {
+              "row": 19,
+              "cell": "E19",
+              "label": "Классифайды (Авито)",
+              "amount": 108100.0,
+              "formula": null
+            },
+            {
+              "row": 20,
+              "cell": "E20",
+              "label": "Ведение Авито",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 21,
+              "cell": "E21",
+              "label": "ВКонтакте — бюджет рекламы",
+              "amount": 250000.0,
+              "formula": null
+            },
+            {
+              "row": 22,
+              "cell": "E22",
+              "label": "ВКонтакте — ведение таргета",
+              "amount": 86625.0,
+              "formula": null
+            },
+            {
+              "row": 23,
+              "cell": "E23",
+              "label": "Квиз и чат-лендинг: дизайн-обслуживание",
+              "amount": 40000.0,
+              "formula": null
+            },
+            {
+              "row": 24,
+              "cell": "E24",
+              "label": "Квиз и чат-лендинг: сервис",
+              "amount": 0.0,
+              "formula": null
+            }
+          ],
+          "brand_items": [
+            {
+              "row": 31,
+              "cell": "E31",
+              "label": "Яндекс.Директ — медийная РК",
+              "amount": 195000,
+              "formula": "=E17*E30"
+            },
+            {
+              "row": 32,
+              "cell": "E32",
+              "label": "SMM и соцсети",
+              "amount": 150000.0,
+              "formula": null
+            },
+            {
+              "row": 33,
+              "cell": "E33",
+              "label": "Репутация: отзывы, 2ГИС, Яндекс.Карты",
+              "amount": 14000.0,
+              "formula": null
+            },
+            {
+              "row": 34,
+              "cell": "E34",
+              "label": "Креатив и продакшн",
+              "amount": 74000.0,
+              "formula": null
+            },
+            {
+              "row": 35,
+              "cell": "E35",
+              "label": "POS-материалы, типография",
+              "amount": 150000.0,
+              "formula": null
+            },
+            {
+              "row": 36,
+              "cell": "E36",
+              "label": "Геосервисы",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 37,
+              "cell": "E37",
+              "label": "Наружная реклама (размещение + баннеры)",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 38,
+              "cell": "E38",
+              "label": "PR: размещение в СМИ",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 39,
+              "cell": "E39",
+              "label": "PR: мероприятия для клиентов",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 40,
+              "cell": "E40",
+              "label": "PR: работа с риелторами",
+              "amount": 0.0,
+              "formula": null
+            }
+          ],
+          "operations_items": [
+            {
+              "row": 60,
+              "cell": "E60",
+              "label": "Аренда офиса",
+              "amount": 263790.0,
+              "formula": null
+            },
+            {
+              "row": 61,
+              "cell": "E61",
+              "label": "Содержание офиса",
+              "amount": 15000.0,
+              "formula": null
+            },
+            {
+              "row": 62,
+              "cell": "E62",
+              "label": "Техническая поддержка CRM",
+              "amount": 68250.0,
+              "formula": null
+            },
+            {
+              "row": 63,
+              "cell": "E63",
+              "label": "Лицензия Profitbase",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 64,
+              "cell": "E64",
+              "label": "Лицензия amoCRM",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 65,
+              "cell": "E65",
+              "label": "Сквозная аналитика (Roistat)",
+              "amount": 8190.0,
+              "formula": null
+            },
+            {
+              "row": 66,
+              "cell": "E66",
+              "label": "Вазап",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 67,
+              "cell": "E67",
+              "label": "Телефония (Манго)",
+              "amount": 15000.0,
+              "formula": null
+            },
+            {
+              "row": 68,
+              "cell": "E68",
+              "label": "Прочее",
+              "amount": 150000.0,
+              "formula": null
+            }
+          ],
+          "attraction": 2834551.091,
+          "requested_agent": 1984185.7636999998,
+          "requested_lead": 850365.3273,
+          "direct_model_cost": 780000.0,
+          "direct_gap": 0.0
+        }
+      ],
+      "totals": {
+        "sales": 134135978.97999999,
+        "units": 17.104599999999998,
+        "lead": 4148550,
+        "brand": 2049000,
+        "agent": 3755807.411,
+        "operations": 1560690,
+        "registration": 864000,
+        "commercial": 12378047.411,
+        "subsidy": 416666.67000000004,
+        "leads_model": 117,
+        "direct": 2340000,
+        "model_direct_deals": 6,
+        "escrow": 87188386.34,
+        "attraction": 7904357.411,
+        "requested_agent": 5533050.1877,
+        "requested_lead": 2371307.2232999997,
+        "direct_model_cost": 2340000.0,
+        "direct_gap": 0.0,
+        "agent_share_attraction": 0.47515657702589176,
+        "cost_attraction_unit": 462118.8107877414,
+        "cost_commercial_unit_no_fot": 723667.7508389557,
+        "cost_lead_direct_model": 691425.0,
+        "direct_target_at_30": 5.131379999999999,
+        "agent_target_at_70": 11.973219999999998
+      },
+      "history": {
+        "marketing": 8683094,
+        "leads": 455,
+        "qualified": 115,
+        "deals": 114,
+        "direct_deals": 19,
+        "agent_deals": 95,
+        "cr": 0.041758241758241756,
+        "agent_share": 0.8333333333333334,
+        "cpl_all_marketing": 19083.723076923077
+      },
+      "agent_rate": 0.04
+    },
+    "piermont": {
+      "name": "Пьермонт",
+      "source_file": "01-_-_-_2026_2029.xlsx",
+      "source_sha256": "20bf25707afbb0d1cde0c9d7b82e900c66f3a2a4f1afb65338f0608236e44f2e",
+      "monthly": [
+        {
+          "sales": 93144390.24,
+          "units": 7.1506,
+          "lead": 1347225,
+          "brand": 763000,
+          "agent": 2282037.561,
+          "operations": 888250,
+          "registration": 151531.7073,
+          "commercial": 5432044.268,
+          "subsidy": 400000.0,
+          "leads_model": 39,
+          "direct": 1100000.0,
+          "cpl": 40000.0,
+          "model_ticket": 14000000,
+          "model_direct_deals": 2,
+          "escrow": 65201073.168,
+          "lead_items": [
+            {
+              "row": 17,
+              "cell": "C17",
+              "label": "Яндекс.Директ — бюджет",
+              "amount": 1100000.0,
+              "formula": null
+            },
+            {
+              "row": 18,
+              "cell": "C18",
+              "label": "Сопровождение digital",
+              "amount": 139125.0,
+              "formula": null
+            },
+            {
+              "row": 19,
+              "cell": "C19",
+              "label": "Классифайды (Авито, ЦИАН, Домклик)",
+              "amount": 108100.0,
+              "formula": null
+            },
+            {
+              "row": 20,
+              "cell": "C20",
+              "label": "Ведение Авито",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 21,
+              "cell": "C21",
+              "label": "ВКонтакте — бюджет рекламы",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 22,
+              "cell": "C22",
+              "label": "ВКонтакте — ведение таргета",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 23,
+              "cell": "C23",
+              "label": "Квиз и чат-лендинг: дизайн-обслуживание",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 24,
+              "cell": "C24",
+              "label": "Квиз и чат-лендинг: сервис",
+              "amount": 0.0,
+              "formula": null
+            }
+          ],
+          "brand_items": [
+            {
+              "row": 31,
+              "cell": "C31",
+              "label": "Яндекс.Директ — медийная РК",
+              "amount": 275000,
+              "formula": "=C17*C30"
+            },
+            {
+              "row": 32,
+              "cell": "C32",
+              "label": "SMM и соцсети",
+              "amount": 150000.0,
+              "formula": null
+            },
+            {
+              "row": 33,
+              "cell": "C33",
+              "label": "Репутация: отзывы, 2ГИС, Яндекс.Карты",
+              "amount": 14000.0,
+              "formula": null
+            },
+            {
+              "row": 34,
+              "cell": "C34",
+              "label": "Креатив и продакшн",
+              "amount": 74000.0,
+              "formula": null
+            },
+            {
+              "row": 35,
+              "cell": "C35",
+              "label": "POS-материалы, типография",
+              "amount": 150000.0,
+              "formula": null
+            },
+            {
+              "row": 36,
+              "cell": "C36",
+              "label": "Геосервисы",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 37,
+              "cell": "C37",
+              "label": "Наружная реклама (размещение, дизайн, баннеры)",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 38,
+              "cell": "C38",
+              "label": "PR: размещение в СМИ",
+              "amount": 100000.0,
+              "formula": null
+            },
+            {
+              "row": 39,
+              "cell": "C39",
+              "label": "PR: мероприятия для клиентов",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 40,
+              "cell": "C40",
+              "label": "PR: работа с риелторами",
+              "amount": 0.0,
+              "formula": null
+            }
+          ],
+          "operations_items": [
+            {
+              "row": 61,
+              "cell": "C61",
+              "label": "Аренда офиса",
+              "amount": 590000.0,
+              "formula": null
+            },
+            {
+              "row": 62,
+              "cell": "C62",
+              "label": "Содержание офиса",
+              "amount": 15000.0,
+              "formula": null
+            },
+            {
+              "row": 63,
+              "cell": "C63",
+              "label": "Техническая поддержка CRM",
+              "amount": 68250.0,
+              "formula": null
+            },
+            {
+              "row": 64,
+              "cell": "C64",
+              "label": "Лицензия Profitbase",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 65,
+              "cell": "C65",
+              "label": "Лицензия amoCRM",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 66,
+              "cell": "C66",
+              "label": "Сквозная аналитика (Roistat)",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 67,
+              "cell": "C67",
+              "label": "Телефония (Манго)",
+              "amount": 15000.0,
+              "formula": null
+            },
+            {
+              "row": 68,
+              "cell": "C68",
+              "label": "Прочее",
+              "amount": 200000.0,
+              "formula": null
+            }
+          ],
+          "attraction": 3629262.561,
+          "requested_agent": 2540483.7927,
+          "requested_lead": 1088778.7683,
+          "direct_model_cost": 1560000.0,
+          "direct_gap": 460000.0
+        },
+        {
+          "sales": 81026592.66,
+          "units": 6.218,
+          "lead": 1347225,
+          "brand": 614000,
+          "agent": 1985151.52,
+          "operations": 888250,
+          "registration": 142876.1376,
+          "commercial": 4977502.658,
+          "subsidy": 150000.0,
+          "leads_model": 39,
+          "direct": 1100000.0,
+          "cpl": 40000.0,
+          "model_ticket": 14000000,
+          "model_direct_deals": 2,
+          "escrow": 56718614.862,
+          "lead_items": [
+            {
+              "row": 17,
+              "cell": "D17",
+              "label": "Яндекс.Директ — бюджет",
+              "amount": 1100000.0,
+              "formula": null
+            },
+            {
+              "row": 18,
+              "cell": "D18",
+              "label": "Сопровождение digital",
+              "amount": 139125.0,
+              "formula": null
+            },
+            {
+              "row": 19,
+              "cell": "D19",
+              "label": "Классифайды (Авито, ЦИАН, Домклик)",
+              "amount": 108100.0,
+              "formula": null
+            },
+            {
+              "row": 20,
+              "cell": "D20",
+              "label": "Ведение Авито",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 21,
+              "cell": "D21",
+              "label": "ВКонтакте — бюджет рекламы",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 22,
+              "cell": "D22",
+              "label": "ВКонтакте — ведение таргета",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 23,
+              "cell": "D23",
+              "label": "Квиз и чат-лендинг: дизайн-обслуживание",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 24,
+              "cell": "D24",
+              "label": "Квиз и чат-лендинг: сервис",
+              "amount": 0.0,
+              "formula": null
+            }
+          ],
+          "brand_items": [
+            {
+              "row": 31,
+              "cell": "D31",
+              "label": "Яндекс.Директ — медийная РК",
+              "amount": 300000.0,
+              "formula": null
+            },
+            {
+              "row": 32,
+              "cell": "D32",
+              "label": "SMM и соцсети",
+              "amount": 150000.0,
+              "formula": null
+            },
+            {
+              "row": 33,
+              "cell": "D33",
+              "label": "Репутация: отзывы, 2ГИС, Яндекс.Карты",
+              "amount": 14000.0,
+              "formula": null
+            },
+            {
+              "row": 34,
+              "cell": "D34",
+              "label": "Креатив и продакшн",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 35,
+              "cell": "D35",
+              "label": "POS-материалы, типография",
+              "amount": 150000.0,
+              "formula": null
+            },
+            {
+              "row": 36,
+              "cell": "D36",
+              "label": "Геосервисы",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 37,
+              "cell": "D37",
+              "label": "Наружная реклама (размещение, дизайн, баннеры)",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 38,
+              "cell": "D38",
+              "label": "PR: размещение в СМИ",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 39,
+              "cell": "D39",
+              "label": "PR: мероприятия для клиентов",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 40,
+              "cell": "D40",
+              "label": "PR: работа с риелторами",
+              "amount": 0.0,
+              "formula": null
+            }
+          ],
+          "operations_items": [
+            {
+              "row": 61,
+              "cell": "D61",
+              "label": "Аренда офиса",
+              "amount": 590000.0,
+              "formula": null
+            },
+            {
+              "row": 62,
+              "cell": "D62",
+              "label": "Содержание офиса",
+              "amount": 15000.0,
+              "formula": null
+            },
+            {
+              "row": 63,
+              "cell": "D63",
+              "label": "Техническая поддержка CRM",
+              "amount": 68250.0,
+              "formula": null
+            },
+            {
+              "row": 64,
+              "cell": "D64",
+              "label": "Лицензия Profitbase",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 65,
+              "cell": "D65",
+              "label": "Лицензия amoCRM",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 66,
+              "cell": "D66",
+              "label": "Сквозная аналитика (Roistat)",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 67,
+              "cell": "D67",
+              "label": "Телефония (Манго)",
+              "amount": 15000.0,
+              "formula": null
+            },
+            {
+              "row": 68,
+              "cell": "D68",
+              "label": "Прочее",
+              "amount": 200000.0,
+              "formula": null
+            }
+          ],
+          "attraction": 3332376.52,
+          "requested_agent": 2332663.564,
+          "requested_lead": 999712.956,
+          "direct_model_cost": 1560000.0,
+          "direct_gap": 460000.0
+        },
+        {
+          "sales": 85107413.52,
+          "units": 6.5288,
+          "lead": 1347225,
+          "brand": 614000,
+          "agent": 2085131.631,
+          "operations": 888250,
+          "registration": 145791.0097,
+          "commercial": 5080397.641,
+          "subsidy": 250000.0,
+          "leads_model": 39,
+          "direct": 1100000.0,
+          "cpl": 40000.0,
+          "model_ticket": 14000000,
+          "model_direct_deals": 2,
+          "escrow": 59575189.464,
+          "lead_items": [
+            {
+              "row": 17,
+              "cell": "E17",
+              "label": "Яндекс.Директ — бюджет",
+              "amount": 1100000.0,
+              "formula": null
+            },
+            {
+              "row": 18,
+              "cell": "E18",
+              "label": "Сопровождение digital",
+              "amount": 139125.0,
+              "formula": null
+            },
+            {
+              "row": 19,
+              "cell": "E19",
+              "label": "Классифайды (Авито, ЦИАН, Домклик)",
+              "amount": 108100.0,
+              "formula": null
+            },
+            {
+              "row": 20,
+              "cell": "E20",
+              "label": "Ведение Авито",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 21,
+              "cell": "E21",
+              "label": "ВКонтакте — бюджет рекламы",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 22,
+              "cell": "E22",
+              "label": "ВКонтакте — ведение таргета",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 23,
+              "cell": "E23",
+              "label": "Квиз и чат-лендинг: дизайн-обслуживание",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 24,
+              "cell": "E24",
+              "label": "Квиз и чат-лендинг: сервис",
+              "amount": 0.0,
+              "formula": null
+            }
+          ],
+          "brand_items": [
+            {
+              "row": 31,
+              "cell": "E31",
+              "label": "Яндекс.Директ — медийная РК",
+              "amount": 300000.0,
+              "formula": null
+            },
+            {
+              "row": 32,
+              "cell": "E32",
+              "label": "SMM и соцсети",
+              "amount": 150000.0,
+              "formula": null
+            },
+            {
+              "row": 33,
+              "cell": "E33",
+              "label": "Репутация: отзывы, 2ГИС, Яндекс.Карты",
+              "amount": 14000.0,
+              "formula": null
+            },
+            {
+              "row": 34,
+              "cell": "E34",
+              "label": "Креатив и продакшн",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 35,
+              "cell": "E35",
+              "label": "POS-материалы, типография",
+              "amount": 150000.0,
+              "formula": null
+            },
+            {
+              "row": 36,
+              "cell": "E36",
+              "label": "Геосервисы",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 37,
+              "cell": "E37",
+              "label": "Наружная реклама (размещение, дизайн, баннеры)",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 38,
+              "cell": "E38",
+              "label": "PR: размещение в СМИ",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 39,
+              "cell": "E39",
+              "label": "PR: мероприятия для клиентов",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 40,
+              "cell": "E40",
+              "label": "PR: работа с риелторами",
+              "amount": 0.0,
+              "formula": null
+            }
+          ],
+          "operations_items": [
+            {
+              "row": 61,
+              "cell": "E61",
+              "label": "Аренда офиса",
+              "amount": 590000.0,
+              "formula": null
+            },
+            {
+              "row": 62,
+              "cell": "E62",
+              "label": "Содержание офиса",
+              "amount": 15000.0,
+              "formula": null
+            },
+            {
+              "row": 63,
+              "cell": "E63",
+              "label": "Техническая поддержка CRM",
+              "amount": 68250.0,
+              "formula": null
+            },
+            {
+              "row": 64,
+              "cell": "E64",
+              "label": "Лицензия Profitbase",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 65,
+              "cell": "E65",
+              "label": "Лицензия amoCRM",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 66,
+              "cell": "E66",
+              "label": "Сквозная аналитика (Roistat)",
+              "amount": 0.0,
+              "formula": null
+            },
+            {
+              "row": 67,
+              "cell": "E67",
+              "label": "Телефония (Манго)",
+              "amount": 15000.0,
+              "formula": null
+            },
+            {
+              "row": 68,
+              "cell": "E68",
+              "label": "Прочее",
+              "amount": 200000.0,
+              "formula": null
+            }
+          ],
+          "attraction": 3432356.631,
+          "requested_agent": 2402649.6417,
+          "requested_lead": 1029706.9893,
+          "direct_model_cost": 1560000.0,
+          "direct_gap": 460000.0
+        }
+      ],
+      "totals": {
+        "sales": 259278396.42,
+        "units": 19.8974,
+        "lead": 4041675,
+        "brand": 1991000,
+        "agent": 6352320.712,
+        "operations": 2664750,
+        "registration": 440198.85459999996,
+        "commercial": 15489944.567,
+        "subsidy": 800000.0,
+        "leads_model": 117,
+        "direct": 3300000.0,
+        "model_direct_deals": 6,
+        "escrow": 181494877.49400002,
+        "attraction": 10393995.712000001,
+        "requested_agent": 7275796.9984,
+        "requested_lead": 3118198.7136000004,
+        "direct_model_cost": 4680000.0,
+        "direct_gap": 1380000.0,
+        "agent_share_attraction": 0.611152908661119,
+        "cost_attraction_unit": 522379.59291163675,
+        "cost_commercial_unit_no_fot": 778490.886598249,
+        "cost_lead_direct_model": 673612.5,
+        "direct_target_at_30": 5.96922,
+        "agent_target_at_70": 13.92818
+      },
+      "history": {
+        "marketing": 9583808,
+        "leads": 389,
+        "qualified": 79,
+        "deals": 13,
+        "direct_deals": 11,
+        "agent_deals": 2,
+        "cr": 0.028277634961439587,
+        "agent_share": 0.15384615384615385,
+        "cpl_all_marketing": 24637.03856041131
+      },
+      "agent_rate": 0.035
+    }
+  },
+  "combined": {
+    "sales": 393414375.4,
+    "escrow": 268683263.834,
+    "units": 37.001999999999995,
+    "lead": 8190225,
+    "brand": 4040000,
+    "agent": 10108128.123,
+    "operations": 4225440,
+    "registration": 1304198.8546,
+    "commercial": 27867991.978,
+    "subsidy": 1216666.67,
+    "attraction": 18298353.123000003,
+    "requested_agent": 12808847.186099999,
+    "requested_lead": 5489505.9369,
+    "direct": 5640000.0,
+    "direct_gap": 1380000.0
+  }
+}
