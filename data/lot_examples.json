@@ -1,41 +1,5 @@
 [
   {
-    "project": "Пьермонт",
-    "rooms": 1,
-    "area": 37.06,
-    "price": 8913640,
-    "floor": null,
-    "section": "А",
-    "id": "планировка 37,06 м²",
-    "url": "https://piermont.ru/",
-    "type": "Минимум по планировке",
-    "price_per_m2": 240519.15812196437
-  },
-  {
-    "project": "Пьермонт",
-    "rooms": 2,
-    "area": 55.12,
-    "price": 12158210,
-    "floor": null,
-    "section": "А",
-    "id": "планировка 55,12 м²",
-    "url": "https://piermont.ru/",
-    "type": "Минимум по планировке",
-    "price_per_m2": 220577.1044992743
-  },
-  {
-    "project": "Пьермонт",
-    "rooms": 3,
-    "area": 78.8,
-    "price": 17399396,
-    "floor": null,
-    "section": "Б",
-    "id": "планировка 78,8 м²",
-    "url": "https://piermont.ru/",
-    "type": "Минимум по планировке",
-    "price_per_m2": 220804.51776649748
-  },
-  {
     "project": "Родина Парк",
     "rooms": 1,
     "area": 34.3,
@@ -112,5 +76,16 @@
     "source_api": "https://dinamica-ufa.ru/api/selection/?rooms=3&sort=price-asc",
     "source_count": 4,
     "price_per_m2": 141500.0
+  },
+  {
+    "project": "Высота",
+    "rooms": null,
+    "layout": "3 смарт: кухня-гостиная и две спальни",
+    "area": 59.5,
+    "price": 11400000,
+    "price_per_m2": 191596.6386554622,
+    "floor": 9,
+    "url": "https://m2.ru/respublika-bashkortostan/nedvizhimost/prodazha-3-komnatnoi-kvartiri-59-5-m-9-25-etazh-8394f0d5-267f-475b-9b1a-682afa9d8cfa/",
+    "type": "Один пример вторичного объявления"
   }
 ]

@@ -1,53 +1,5 @@
 [
   {
-    "project": "Заря",
-    "rooms": "1",
-    "min_price_rub": 6557535,
-    "max_price_rub": 8095361,
-    "min_area_m2": 31.7,
-    "max_area_m2": 41.7,
-    "offers_count": 103,
-    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/zarya-4544555/",
-    "date": "2026-10-14",
-    "note": "Минимум цены и минимум площади могут относиться к разным лотам."
-  },
-  {
-    "project": "Заря",
-    "rooms": "2",
-    "min_price_rub": 9466964,
-    "max_price_rub": 10905702,
-    "min_area_m2": 51.1,
-    "max_area_m2": 60.0,
-    "offers_count": 105,
-    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/zarya-4544555/",
-    "date": "2026-10-14",
-    "note": "Минимум цены и минимум площади могут относиться к разным лотам."
-  },
-  {
-    "project": "Заря",
-    "rooms": "3",
-    "min_price_rub": 11595323,
-    "max_price_rub": 13619782,
-    "min_area_m2": 66.2,
-    "max_area_m2": 79.7,
-    "offers_count": 34,
-    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/zarya-4544555/",
-    "date": "2026-10-14",
-    "note": "Минимум цены и минимум площади могут относиться к разным лотам."
-  },
-  {
-    "project": "Заря",
-    "rooms": "STUDIO",
-    "min_price_rub": 5611630,
-    "max_price_rub": 6128230,
-    "min_area_m2": 28.7,
-    "max_area_m2": 31.4,
-    "offers_count": 24,
-    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/zarya-4544555/",
-    "date": "2026-10-14",
-    "note": "Минимум цены и минимум площади могут относиться к разным лотам."
-  },
-  {
     "project": "Атлантис",
     "rooms": "1",
     "min_price_rub": 6745400,
@@ -92,66 +44,6 @@
     "max_area_m2": 149.2,
     "offers_count": 33,
     "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/atlantis-3994529/",
-    "date": "2026-10-14",
-    "note": "Минимум цены и минимум площади могут относиться к разным лотам."
-  },
-  {
-    "project": "Пьермонт",
-    "rooms": "1",
-    "min_price_rub": 8913640,
-    "max_price_rub": 13152051,
-    "min_area_m2": 36.4,
-    "max_area_m2": 57.5,
-    "offers_count": 60,
-    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/permont-4080787/",
-    "date": "2026-10-14",
-    "note": "Минимум цены и минимум площади могут относиться к разным лотам."
-  },
-  {
-    "project": "Пьермонт",
-    "rooms": "2",
-    "min_price_rub": 12158210,
-    "max_price_rub": 17903580,
-    "min_area_m2": 55.1,
-    "max_area_m2": 80.4,
-    "offers_count": 148,
-    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/permont-4080787/",
-    "date": "2026-10-14",
-    "note": "Минимум цены и минимум площади могут относиться к разным лотам."
-  },
-  {
-    "project": "Пьермонт",
-    "rooms": "3",
-    "min_price_rub": 17399396,
-    "max_price_rub": 25646960,
-    "min_area_m2": 78.8,
-    "max_area_m2": 120.4,
-    "offers_count": 23,
-    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/permont-4080787/",
-    "date": "2026-10-14",
-    "note": "Минимум цены и минимум площади могут относиться к разным лотам."
-  },
-  {
-    "project": "Пьермонт",
-    "rooms": "STUDIO",
-    "min_price_rub": 7073309,
-    "max_price_rub": 7302659,
-    "min_area_m2": 30.6,
-    "max_area_m2": 30.6,
-    "offers_count": 7,
-    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/permont-4080787/",
-    "date": "2026-10-14",
-    "note": "Минимум цены и минимум площади могут относиться к разным лотам."
-  },
-  {
-    "project": "Пьермонт",
-    "rooms": "PLUS_4",
-    "min_price_rub": 26137910,
-    "max_price_rub": 26137910,
-    "min_area_m2": 118.0,
-    "max_area_m2": 118.0,
-    "offers_count": 1,
-    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/permont-4080787/",
     "date": "2026-10-14",
     "note": "Минимум цены и минимум площади могут относиться к разным лотам."
   }

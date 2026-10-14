@@ -1,0 +1,221 @@
+{
+  "date": "2026-10-14",
+  "source": {
+    "name": "Единый_реестр_помещений_HART_DEV.xlsx",
+    "sheet": "Помещения",
+    "sha256": "3ebd049e123d9328eea378734349fdc8b6661b80d3bc7d58d4eb3eaa5736a9d5",
+    "snapshot_freshness": "Время актуализации цен в файле не указано. Использован прикреплённый снимок.",
+    "columns": [
+      "номер помещения",
+      "цена",
+      "подъезд",
+      "этаж",
+      "статус",
+      "тип помещения",
+      "название дома"
+    ]
+  },
+  "filters": {
+    "type": "Квартира",
+    "status": "Свободно",
+    "duplicate_sheet_ignored": "Не нужно",
+    "duplicate_sheet_equal": true,
+    "apartments_in_source": 752,
+    "apartments_used": 479
+  },
+  "limitations": [
+    "Площадь и комнатность отсутствуют. Цена HART за м² не рассчитана.",
+    "Премия за одинаковый метраж и корректировку класса/готовности не рассчитана.",
+    "Цены проданных квартир не используются как цены сделок.",
+    "В публичных данных сохранены только агрегаты, исходный реестр не публикуется."
+  ],
+  "projects": {
+    "Заря": {
+      "n": 219,
+      "min": 5244700.0,
+      "q1": 8036800.0,
+      "median": 9247924.0,
+      "q3": 11388307.5,
+      "max": 14496900.0,
+      "buckets": [
+        {
+          "label": "До 8 млн ₽",
+          "count": 54,
+          "share": 0.2465753424657534
+        },
+        {
+          "label": "8–10 млн ₽",
+          "count": 82,
+          "share": 0.3744292237442922
+        },
+        {
+          "label": "10–12 млн ₽",
+          "count": 70,
+          "share": 0.319634703196347
+        },
+        {
+          "label": "12–15 млн ₽",
+          "count": 13,
+          "share": 0.0593607305936073
+        },
+        {
+          "label": "От 15 млн ₽",
+          "count": 0,
+          "share": 0.0
+        }
+      ],
+      "mortgage_scenario": {
+        "loan_cap": 6000000,
+        "min_downpayment_share": 0.201,
+        "median_own_money": 3247924.0,
+        "median_own_money_share": 0.35120574087762835
+      }
+    },
+    "Пьермонт": {
+      "n": 260,
+      "min": 7647601.0,
+      "q1": 12349355.0,
+      "median": 15000161.5,
+      "q3": 16620434.375,
+      "max": 35564600.0,
+      "buckets": [
+        {
+          "label": "До 8 млн ₽",
+          "count": 5,
+          "share": 0.019230769230769232
+        },
+        {
+          "label": "8–10 млн ₽",
+          "count": 22,
+          "share": 0.08461538461538462
+        },
+        {
+          "label": "10–12 млн ₽",
+          "count": 30,
+          "share": 0.11538461538461539
+        },
+        {
+          "label": "12–15 млн ₽",
+          "count": 73,
+          "share": 0.28076923076923077
+        },
+        {
+          "label": "От 15 млн ₽",
+          "count": 130,
+          "share": 0.5
+        }
+      ],
+      "mortgage_scenario": {
+        "loan_cap": 6000000,
+        "min_downpayment_share": 0.201,
+        "median_own_money": 9000161.5,
+        "median_own_money_share": 0.6000043066202987
+      }
+    }
+  },
+  "entry_prices": [
+    {
+      "project": "Холмогоры",
+      "price": 5000000,
+      "kind": "Рекламный вход по официальной странице, без привязки к лоту",
+      "url": "https://gkstrateg.ru/project/zhk-holmogory"
+    },
+    {
+      "project": "Динамика",
+      "price": 5479865,
+      "kind": "Публичный лот 1к, 28,03 м²",
+      "url": "https://dinamica-ufa.ru/vybor-po-parametram/910/"
+    },
+    {
+      "project": "Родина Парк",
+      "price": 5899600,
+      "kind": "Лот 393_5, 1к, 34,3 м²",
+      "url": "https://tretiitrest.ru/flats/393_5/"
+    },
+    {
+      "project": "Атлантис",
+      "price": 6745400,
+      "kind": "Минимум прямого фида квартир на Яндекс Недвижимости",
+      "url": "https://realty.yandex.ru/ufa/kupit/novostrojka/atlantis-3994529/"
+    }
+  ],
+  "budget_comparison": [
+    {
+      "benchmark": "Атлантис, 2к от",
+      "price": 7900700,
+      "url": "https://realty.yandex.ru/ufa/kupit/novostrojka/atlantis-3994529/",
+      "hart_apartments_at_or_below": {
+        "Заря": 52,
+        "Пьермонт": 4
+      }
+    },
+    {
+      "benchmark": "Родина Парк, 2к 55,9 м²",
+      "price": 8329100,
+      "url": "https://tretiitrest.ru/flats/393_229/",
+      "hart_apartments_at_or_below": {
+        "Заря": 73,
+        "Пьермонт": 6
+      }
+    },
+    {
+      "benchmark": "Динамика, 2к 54,43 м²",
+      "price": 9198670,
+      "url": "https://dinamica-ufa.ru/vybor-po-parametram/1147/",
+      "hart_apartments_at_or_below": {
+        "Заря": 108,
+        "Пьермонт": 11
+      }
+    },
+    {
+      "benchmark": "Высота, объявление 59,5 м²",
+      "price": 11400000,
+      "url": "https://m2.ru/respublika-bashkortostan/nedvizhimost/prodazha-3-komnatnoi-kvartiri-59-5-m-9-25-etazh-8394f0d5-267f-475b-9b1a-682afa9d8cfa/",
+      "hart_apartments_at_or_below": {
+        "Заря": 165,
+        "Пьермонт": 44
+      }
+    }
+  ],
+  "vysota": {
+    "display_name": "Высота",
+    "address": "Уфа, Рудольфа Нуреева, 16",
+    "market": "Вторичное готовое жильё",
+    "example": {
+      "area": 59.5,
+      "price": 11400000,
+      "price_per_m2": 191596.6386554622,
+      "floor": 9,
+      "floors": 25,
+      "layout": "3 смарт: кухня-гостиная и две спальни",
+      "finish": "Ремонт и часть мебели по описанию",
+      "url": "https://m2.ru/respublika-bashkortostan/nedvizhimost/prodazha-3-komnatnoi-kvartiri-59-5-m-9-25-etazh-8394f0d5-267f-475b-9b1a-682afa9d8cfa/"
+    },
+    "limitations": "Один пример, не минимум и не средняя цена ЖК. Год постройки 2019 в карточке конфликтует с 2022 в блоке ЖК. Цена предложения, доступность не подтверждена звонком."
+  },
+  "rejected_examples": [
+    {
+      "url": "https://ufa.cian.ru/kupit-kvartiru-vtorichka-zhiloy-kompleks-biosfera-vysota-49040/",
+      "price": 13000000,
+      "reason": "Карточка привязана к Высоте, но текст описывает Урман Сити и уступку. Не включена в сравнение."
+    },
+    {
+      "price": 5900000,
+      "reason": "Объявления на адресе Рудольфа Нуреева,16 описывают Давлеткильдиева,16 и 30-этажный дом. Не включены."
+    }
+  ],
+  "source_discrepancy": [
+    {
+      "project": "Заря",
+      "registry_free_min": 5244700.0,
+      "earlier_public_feed_min": 5611630,
+      "note": "Разные срезы статусов и цен. Не считать разницу изменением цены и не усреднять."
+    },
+    {
+      "project": "Пьермонт",
+      "registry_free_min": 7647601.0,
+      "earlier_public_feed_min": 7073309,
+      "note": "Разные срезы статусов и цен. Не считать разницу изменением цены и не усреднять."
+    }
+  ]
+}
