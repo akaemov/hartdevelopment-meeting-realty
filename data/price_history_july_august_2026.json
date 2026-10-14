@@ -1,0 +1,200 @@
+[
+  {
+    "project": "Заря",
+    "rooms": 1,
+    "july_m2": 200291,
+    "august_m2": 206778,
+    "july_lot": 7591411,
+    "august_lot": 7847096,
+    "delta_m2_pct": 3.2387875640942365,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/zarya-4544555/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Заря",
+    "rooms": 2,
+    "july_m2": 178000,
+    "august_m2": 182798,
+    "july_lot": 9955824,
+    "august_lot": 10211033,
+    "delta_m2_pct": 2.695505617977534,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/zarya-4544555/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Заря",
+    "rooms": 3,
+    "july_m2": 164048,
+    "august_m2": 170485,
+    "july_lot": 11956096,
+    "august_lot": 12408034,
+    "delta_m2_pct": 3.923851555642255,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/zarya-4544555/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Атлантис",
+    "rooms": 1,
+    "july_m2": 230916,
+    "august_m2": 231553,
+    "july_lot": 7777143,
+    "august_lot": 7815388,
+    "delta_m2_pct": 0.27585788771673503,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/atlantis-3994529/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Атлантис",
+    "rooms": 2,
+    "july_m2": 231906,
+    "august_m2": 229101,
+    "july_lot": 11224098,
+    "august_lot": 10862515,
+    "delta_m2_pct": -1.2095417971074496,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/atlantis-3994529/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Атлантис",
+    "rooms": 3,
+    "july_m2": 220506,
+    "august_m2": 213093,
+    "july_lot": 15315332,
+    "august_lot": 14602567,
+    "delta_m2_pct": -3.3618132839922765,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/atlantis-3994529/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Пьермонт",
+    "rooms": 1,
+    "july_m2": null,
+    "august_m2": 232354,
+    "july_lot": null,
+    "august_lot": 10500982,
+    "delta_m2_pct": null,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/permont-4080787/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Пьермонт",
+    "rooms": 2,
+    "july_m2": null,
+    "august_m2": 217553,
+    "july_lot": null,
+    "august_lot": 14750424,
+    "delta_m2_pct": null,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/permont-4080787/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Пьермонт",
+    "rooms": 3,
+    "july_m2": null,
+    "august_m2": 219127,
+    "july_lot": null,
+    "august_lot": 19553082,
+    "delta_m2_pct": null,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/permont-4080787/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Холмогоры",
+    "rooms": 1,
+    "july_m2": 219387,
+    "august_m2": 219612,
+    "july_lot": 7738196,
+    "august_lot": 7736506,
+    "delta_m2_pct": 0.10255849252689409,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/holmogory-3710187/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Холмогоры",
+    "rooms": 2,
+    "july_m2": 189096,
+    "august_m2": 189874,
+    "july_lot": 10846766,
+    "august_lot": 10907796,
+    "delta_m2_pct": 0.4114312306976453,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/holmogory-3710187/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Холмогоры",
+    "rooms": 3,
+    "july_m2": 185178,
+    "august_m2": 185105,
+    "july_lot": 11972039,
+    "august_lot": 12046544,
+    "delta_m2_pct": -0.039421529555350165,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/holmogory-3710187/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Родина Парк",
+    "rooms": 1,
+    "july_m2": null,
+    "august_m2": null,
+    "july_lot": null,
+    "august_lot": null,
+    "delta_m2_pct": null,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/rodina-park-4164422/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Родина Парк",
+    "rooms": 2,
+    "july_m2": null,
+    "august_m2": null,
+    "july_lot": null,
+    "august_lot": null,
+    "delta_m2_pct": null,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/rodina-park-4164422/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Родина Парк",
+    "rooms": 3,
+    "july_m2": null,
+    "august_m2": null,
+    "july_lot": null,
+    "august_lot": null,
+    "delta_m2_pct": null,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/rodina-park-4164422/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Динамика",
+    "rooms": 1,
+    "july_m2": null,
+    "august_m2": null,
+    "july_lot": null,
+    "august_lot": null,
+    "delta_m2_pct": null,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/dinamika-4545270/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Динамика",
+    "rooms": 2,
+    "july_m2": null,
+    "august_m2": null,
+    "july_lot": null,
+    "august_lot": null,
+    "delta_m2_pct": null,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/dinamika-4545270/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  },
+  {
+    "project": "Динамика",
+    "rooms": 3,
+    "july_m2": null,
+    "august_m2": null,
+    "july_lot": null,
+    "august_lot": null,
+    "delta_m2_pct": null,
+    "source_url": "https://realty.yandex.ru/ufa/kupit/novostrojka/dinamika-4545270/",
+    "method": "Средние цены предложения по группе, состав выборки неизвестен. Не постоянная корзина."
+  }
+]

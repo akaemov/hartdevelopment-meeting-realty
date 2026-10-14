@@ -1,0 +1,56 @@
+[
+  {
+    "project": "Заря",
+    "url": "https://realty.yandex.ru/ufa/kupit/novostrojka/zarya-4544555/",
+    "retrieved_at": "2026-10-14",
+    "raw_sha256": "7291b7f7f68f4a95969455f94182d45f7480e385fcd5a67559eaaaba5b5c94b1",
+    "history_july_available": true,
+    "platform_current_offers": 266,
+    "note": "Нулевой фид не означает отсутствие квартир или продажи всех лотов."
+  },
+  {
+    "project": "Атлантис",
+    "url": "https://realty.yandex.ru/ufa/kupit/novostrojka/atlantis-3994529/",
+    "retrieved_at": "2026-10-14",
+    "raw_sha256": "051825188d36dbbb7df33e2758ac5a065435467912371d3f055ad685114a07b7",
+    "history_july_available": true,
+    "platform_current_offers": 363,
+    "note": "Нулевой фид не означает отсутствие квартир или продажи всех лотов."
+  },
+  {
+    "project": "Пьермонт",
+    "url": "https://realty.yandex.ru/ufa/kupit/novostrojka/permont-4080787/",
+    "retrieved_at": "2026-10-14",
+    "raw_sha256": "f4be67a62280d8f5893552e06a000bb6ee5f39c58be6a68534249594d0aea793",
+    "history_july_available": false,
+    "platform_current_offers": 239,
+    "note": "Нулевой фид не означает отсутствие квартир или продажи всех лотов."
+  },
+  {
+    "project": "Холмогоры",
+    "url": "https://realty.yandex.ru/ufa/kupit/novostrojka/holmogory-3710187/",
+    "retrieved_at": "2026-10-14",
+    "raw_sha256": "8a0a290804b5611850d79289ba5f1a2b6d08ac1d17ada8d6a6e4cae622b7c3dd",
+    "history_july_available": true,
+    "platform_current_offers": 0,
+    "note": "Нулевой фид не означает отсутствие квартир или продажи всех лотов."
+  },
+  {
+    "project": "Родина Парк",
+    "url": "https://realty.yandex.ru/ufa/kupit/novostrojka/rodina-park-4164422/",
+    "retrieved_at": "2026-10-14",
+    "raw_sha256": "b48896a47c1b800c3007b9d99008c42e0ba1500745e4df4eb8c1c092ef11c777",
+    "history_july_available": false,
+    "platform_current_offers": 0,
+    "note": "Нулевой фид не означает отсутствие квартир или продажи всех лотов."
+  },
+  {
+    "project": "Динамика",
+    "url": "https://realty.yandex.ru/ufa/kupit/novostrojka/dinamika-4545270/",
+    "retrieved_at": "2026-10-14",
+    "raw_sha256": "37e4edff2d6b8eee8c20855d2040ce872a8eca1c16d095ddc66e50018c384795",
+    "history_july_available": false,
+    "platform_current_offers": 0,
+    "note": "Нулевой фид не означает отсутствие квартир или продажи всех лотов."
+  }
+]
